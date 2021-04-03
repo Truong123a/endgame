@@ -1,0 +1,23 @@
+	{	
+	name: "Truong123a/endgame",	
+	description: "Create text",	
+	keywords: [	
+	],	
+	authors: [	
+	{	
+	name: "Truong123a",	
+	email: "truongpx.10.student@fit.tdc.edu.vn",	
+	homepage: "http://tailieuweb.com"	
+	}	
+	],	
+	license: "MIT",	
+	require: {	
+	},	
+	autoload: {	
+	psr-4: {	
+	Truong123a\\endgame\\: "/"	
+	}	
+	},	
+	minimum-stability: "dev"	
+	}	
+		
